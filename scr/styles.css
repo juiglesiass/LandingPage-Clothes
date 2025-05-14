@@ -78,7 +78,7 @@
         background-image: 
           linear-gradient( rgba(9, 9, 9, 0.6), rgba(49, 49, 49, 0.326)),
           linear-gradient( rgba(9, 9, 9, 0.6), rgba(49, 49, 49, 0.326)),
-          url('scr/grupovans.png');
+          url('/scr/grupovans.png');
         background-position: center center;
         background-size: cover;
         background-repeat: no-repeat;
