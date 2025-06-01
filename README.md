@@ -3,7 +3,7 @@
 Este é um projeto de uma landing page de roupas, desenvolvido com HTML e CSS, por enquanto.
 
 ## 🖥 Visualize o projeto
-Você pode acessar e visualizar o quadro Kanban através do link abaixo:
+Você pode acessar e visualizar a landing page de roupas através do link abaixo:
 
 https://juiglesiass.github.io/LandingPage-Clothes/
 
